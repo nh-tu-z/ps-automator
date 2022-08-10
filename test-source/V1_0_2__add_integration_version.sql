@@ -1,1 +1,1 @@
-ALTER TABLE [${schema}].Integration ADD Version rowversion;
+ALTER TABLE [dbo].Integration ADD Version rowversion;

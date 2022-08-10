@@ -1,4 +1,4 @@
-﻿CREATE TABLE [${schema}].[Integration] (
+CREATE TABLE [dbo].[Integration] (
     [IntegrationId] UNIQUEIDENTIFIER PRIMARY KEY default NEWID(),
     [IntegrationName] NVARCHAR (255) NOT NULL,
     [Description] NVARCHAR (500) NOT NULL,
