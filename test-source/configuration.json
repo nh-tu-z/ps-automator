@@ -1,0 +1,9 @@
+﻿{
+  "ResourceGroupName": "tuhngo-group",
+  "KeyVaultName": "tuhngo-keyval",
+  "Location": "tuhngo-location",
+  "StartIp": "192.168.79.2",
+  "EndIp": "192.168.79.10",
+  "TenantMigrationFolder": "tuhngo-folder",
+  "FolderPath": ""
+}

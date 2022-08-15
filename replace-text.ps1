@@ -1,4 +1,6 @@
-param($path)
+param(
+    [Parameter(Mandatory)][string]$path
+)
 
 # TODO - validate param input
 
